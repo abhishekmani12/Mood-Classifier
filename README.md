@@ -24,7 +24,8 @@ Planned deployment through AWS Lambda.
 
 ## To test real time predictions:
 
-1.Copy/Star the 'Mood.pkl' file to your drive: https://drive.google.com/file/d/1jmiEUuDjbTBN10sYx5gyJ3bjGI1yArQW/view?usp=sharing
+1.Copy / Star the 'Mood.pkl' file to your drive: 
+https://drive.google.com/file/d/1jmiEUuDjbTBN10sYx5gyJ3bjGI1yArQW/view?usp=sharing
 
 2.Open this Colab Notebook, mount your drive and copy the 'Mood.pkl' file path to the cell indicated and execute: https://colab.research.google.com/drive/1NmOAVLm51kfznmkKz7bn4la3bRrM93z7?usp=sharing
 
